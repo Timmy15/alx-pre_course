@@ -1,2 +1,2 @@
-My first readme
-\nThis is an update to this file
+My first readme, 
+This is an update to this file
